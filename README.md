@@ -1,2 +1,2 @@
 # Day1-Masai
-HTML web-page(assignment given by MASAI)
+HTML web-pages(assignment given by MASAI)
